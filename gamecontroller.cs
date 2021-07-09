@@ -29,7 +29,7 @@
       Documentation - LevelUpdate
     
    
-      LevelUpdate run from an Update() thread for every frame and this function
+      LevelUpdate runs from an Update() thread for every frame and this function
       displaying/hiding gameobjects when they appear within the set boundaries. 
     
       
@@ -297,7 +297,7 @@
    /**
       Documentation - BuildLevel
       
-      Generating game object at certain position from a multiple dimensional array[][][]
+      Generating game objects at certain positions from a multiple dimensional array[][][]
    
   
    */
@@ -1992,7 +1992,7 @@
 
   /** Documentation - UpdateGameRun 
   
-      UpdateGameRun is an automatic game run with different states 
+      UpdateGameRun is an automatic game run with states 
       as run, jump and stop at different positions from an array
      
   
