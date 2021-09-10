@@ -1,13 +1,6 @@
 
 
 
-
-
-
-
-
-
-
     float cmx = 0;
 
     int dc = 0;
@@ -30,10 +23,9 @@
     
    
       LevelUpdate runs from an Update() thread for every frame and this function
-      displaying/hiding gameobjects when they appear within the set boundaries. 
+      displaying/hiding objects when they appear within the set boundaries. 
     
-      
-    
+  
     
     */
 
